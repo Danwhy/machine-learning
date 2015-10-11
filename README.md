@@ -13,3 +13,5 @@ Where h<sub>&theta;</sub>(x) is the hypothesis:
 ![](/images/linear_grad.png)
 
 ## Logistic Regression
+
+## Neural Networks
