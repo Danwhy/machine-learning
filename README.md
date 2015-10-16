@@ -17,3 +17,7 @@ Where h<sub>&theta;</sub>(x) is the hypothesis:
 #### Regularization:
 
 ## Neural Networks
+
+#### Forward Propagation
+
+#### Back Propagation
